@@ -2,9 +2,8 @@
 
 in the construction of this project, the equipment that I used was :
 
-```
-- [nodeJS](https://nodejs.org/en/)
-- [expressJS](https://expressjs.com/)
-- [postCSS](https://postcss.org/)
-- [mongoDB](https://www.mongodb.com/)
-```
+ 1. [nodeJS](https://nodejs.org/en/) 
+ 2. [expressJS](https://expressjs.com/)
+ 3. [postCSS](https://postcss.org/)
+ 4. [mongoDB](https://www.mongodb.com/)
+
